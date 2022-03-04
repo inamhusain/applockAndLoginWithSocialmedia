@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "283975422728",
+    "project_id": "loginwithall",
+    "storage_bucket": "loginwithall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283975422728:android:82200160b2006a53ca92bd",
+        "android_client_info": {
+          "package_name": "com.example.fingerprint_auth_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283975422728-qkm0p56oaem7iiujudl1b6u1uf6p08vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fingerprint_auth_example",
+            "certificate_hash": "8e95daae174446b635ae8812fa8cd510d059b141"
+          }
+        },
+        {
+          "client_id": "283975422728-1e1vjoh7vb4b38hhdeg1vj9p8i5tfsa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfqqOsSSdjKtrTqVzfebVs55jkbdMlvo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283975422728-1e1vjoh7vb4b38hhdeg1vj9p8i5tfsa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

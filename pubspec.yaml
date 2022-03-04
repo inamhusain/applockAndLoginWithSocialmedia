@@ -1,0 +1,30 @@
+name: fingerprint_auth_example
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+
+  local_auth: 
+  # intl: 0.17.0
+  shared_preferences: ^2.0.13
+  firebase_auth: 2.0.0
+  cloud_firestore: ^3.1.6
+  firebase_core: ^1.11.0
+  google_sign_in: ^5.2.3
+  flutter_facebook_auth: ^4.1.1
+  twitter_login: ^4.0.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
