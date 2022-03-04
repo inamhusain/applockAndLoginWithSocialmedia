@@ -147,7 +147,10 @@ class _SignInScreenState extends State<SignInScreen> {
                     ? SizedBox(
                         width: 20,
                         height: 20,
-                        child: CircularProgressIndicator())
+                        child: CircularProgressIndicator(
+                          strokeWidth: 2,
+                          color: Colors.black,
+                        ))
                     : Text('Sign In with Facebook',
                         style: TextStyle(color: Colors.white)),
               ),
